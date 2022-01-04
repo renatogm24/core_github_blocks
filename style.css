@@ -1,0 +1,44 @@
+h1{
+  font-size: 48px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+footer{
+  font-size: 18px;
+  text-align: center;
+}
+
+body{
+  background-color: #ebeefa;
+  padding: 15px;
+}
+
+img{
+  height: 200px;
+}
+
+div{
+  display: flex;
+  margin: 15px 0;
+  padding: 15px;
+}
+
+#first{
+  background-color: #57c4f5;
+  justify-content: space-between;
+}
+
+#second{
+  background-color: #d69eb0;
+  justify-content: space-around;
+}
+
+#third{
+  background-color: #fcfcfc;
+  justify-content: space-between;
+}
+
+
+
